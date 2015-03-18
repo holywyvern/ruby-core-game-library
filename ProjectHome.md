@@ -1,0 +1,1 @@
+This library atteps to be like the RGSS library in RPG Maker software, but free.
